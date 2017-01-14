@@ -1,5 +1,4 @@
 # Udacity application
-None of those scripts should be circulated without permission.
 
 ## R scripts
 Implementations of my Ph.D. thesis' models (2012-2013)
