@@ -6,7 +6,7 @@ Estimation of f_test(x) / f_train(x)
 # Facilities en provenance de Python 3
 from __future__ import print_function, division#, unicode_literals
 # Reference interne
-from .misc import createFoldIndexes
+from ilearning.misc import createFoldIndexes
 # Classes d'objet
 import numpy as np
 import pandas as pd
